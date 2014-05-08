@@ -17,17 +17,7 @@ We depend on a few Ruby gems:
 * `gem install kramdown`
 * `gem install psych -- --enable-bundled-libyaml`
 
-To keep our code updating continuously as we edit, we use:
-
-* `jekyll serve --watch --baseurl:""`
-
-Markdown and YAML editing happens in the `gh-pages` branch, so the [preview page](https://18f.github.io/notalone) is automatically updated as we commit edits.
-
-The static compiled HTML is updated into the `master` branch. To generate the static files and push them to `master`, we run:
-
-`rake publish`
-
-(See the `Rakefile` in the root directory for details on how this works.)
+To keep our code updating continuously as we edit, we use `jekyll serve --watch --baseurl:""`. Markdown and YAML editing happens in the `gh-pages` branch, so the [preview page](https://18f.github.io/notalone) is automatically updated as we commit edits. The static compiled HTML is updated into the `master` branch. To generate the static files and push them to `master`, we run `rake publish`. (See the `Rakefile` in the root directory for details on how this works.)
 
 
 ## Contributing
