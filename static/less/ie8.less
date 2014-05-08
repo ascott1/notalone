@@ -1,0 +1,47 @@
+@import "bootstrap";
+.container {
+  max-width:960px;
+  margin:0 auto;
+}
+
+.nav-toggle {
+  display:none !important;
+}
+
+.site-header-content {
+  .main-nav {
+    display:block;
+    .nav-list {
+      background:none;
+      position:relative;
+      width:100%;
+      text-align:center;
+      padding-top:0;
+      .list-inline();
+      >li a {
+        width:25$;
+        border-bottom:0;
+        &:hover {
+          background:none;
+          font-weight:bold;
+        }
+      }
+    }
+  }
+}
+
+.section-box {
+  .clearfix();
+  .section-box-image {
+    width:50%;
+    float:left;
+  }
+  .section-box-description {
+    width:50%;
+    float:left;
+  }
+}
+
+a.btn.action {
+  display:none !important;
+}
