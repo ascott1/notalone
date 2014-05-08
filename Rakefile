@@ -1,7 +1,7 @@
 require "rubygems"
 require "tmpdir"
 
-GITHUB_REPONAME = "18f/campus"
+GITHUB_REPONAME = "18f/notalone"
 
 desc "Generate and publish blog to gh-pages"
 task :publish do

@@ -10,6 +10,26 @@ GitHub is our CMS for this project. Content editors have GitHub accounts, edit t
 
 The site's interactive features (the Crisis Service Locator, the Enforcement Map, and Search) are all JavaScript components, making Ajax ([CORS](http://en.wikipedia.org/wiki/Cross-origin_resource_sharing)) calls to external data sources. Search is powered by [Beckley](https://github.com/18f/beckley). The curated list of searchable resources is in `/_data`.
 
+### Compiling and publishing changes
+We depend on a few Ruby gems:
+
+* `gem install jekyll`
+* `gem install kramdown`
+* `gem install psych -- --enable-bundled-libyaml`
+
+To keep our code updating continuously as we edit, we use:
+
+* `jekyll serve --watch --baseurl:""`
+
+Markdown and YAML editing happens in the `gh-pages` branch, so the [preview page](https://18f.github.io/notalone) is automatically updated as we commit edits.
+
+The static compiled HTML is updated into the `master` branch. To generate the static files and push them to `master`, we run:
+
+`rake publish`
+
+(See the `Rakefile` in the root directory for details on how this works.)
+
+
 ## Contributing
 Content and feature suggestions are welcome via GitHub Issues. Code contributions are welcome via pull request, although of course we cannot guarantee your changes will be included in the site.
 
