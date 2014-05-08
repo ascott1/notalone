@@ -1,0 +1,15 @@
+{::nomarkdown}
+<div class="section-box {{ include.class }}">
+  <div class="section-box-image">
+    <a href="{{ site.baseurl }}{{ include.url }}">
+      <img src="{{ site.baseurl }}/static/img/{{ include.image }}" alt="{{ include.title }}">
+    </a>
+  </div>
+  <div class="section-box-description">
+    <a href="{{ site.baseurl }}{{ include.url }}">
+      <h2 class="section-box-title">{{ include.title }}</h2>
+      <p class="section-box-text">{{ include.text }}</p>
+    </a>
+  </div>
+</div>
+{:/}

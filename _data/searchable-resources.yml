@@ -1,0 +1,775 @@
+- url: https://www.notalone.gov/students
+  title: "Not Alone: Together Against Sexual Assault | Students"
+  description: "Know Your Rights | How Do I File a Complaint About My School? And Then What Happens? | Will What I Share Remain Confidential? | Key Terms and Definitions"
+
+- url: https://www.notalone.gov/schools
+  title: "Not Alone: Together Against Sexual Assault | Schools"
+  description: "Legal Guidance | Understanding FERPA, the Clery Act, and Title IX | Maintaining Confidentiality | Developing Sexual Assault Policies and Procedures | Prevention Resources"
+
+- url: https://www.notalone.gov/data
+  title: "Not Alone: Together Against Sexual Assault | Data"
+  description: "School-by-School Enforcement Map | Data.gov"
+
+- url: http://www2.ed.gov/policy/highered/reg/hearulemaking/2012/vawa.html
+  title: "Violence Against Woman Act Negotiated Rulemaking"
+  description: "Negotiated rulemaking sessions"
+  tags: 
+  - "Title IX"
+  - "Clery"
+
+- url: http://www.ed.gov/news/press-releases/us-department-education-reaches-agreement-state-university-new-york-address-and-
+  title: "Title IX: State University of New York (SUNY) Press Release"
+  description: "Press release: U.S. Department of Education Reaches Agreement with the State University of New York to Address and Prevent Sexual Assault and Harassment of Students"
+  tags: 
+  - "SUNY"
+  - "press release"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/02116001-a.html
+  title: "Title IX: State University of New York (SUNY) Compliance Review"
+  description: "SUNY's Title IX Compliance Review"
+  tags: 
+  - "SUNY"
+  - "compliance review"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/02116001-b.html
+  title: "Title IX: State University of New York (SUNY)  Resolution Agreement"
+  description: "SUNY's Title IX Resolution Agreement"
+  tags: 
+  - "SUNY"
+  - "resolution"
+  - "agreement"
+  - "Ed"
+
+- url: http://www.ed.gov/news/press-releases/us-department-education-reaches-agreement-west-contra-costa-unified-school-distr
+  title: "Title IX: West Contra Costa Unified School District Press Release"
+  description: "Press release: West Contra Costa"
+  tags: 
+  - "West Contra Costa"
+  - "press release"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/09095001-a.html
+  title: "Title IX: West Contra Costa Unified School District Compliance Review"
+  description: "West Contra Costa Compliance Review"
+  tags: 
+  - "West Contra Costa"
+  - "compliance review"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/09095001-b.html
+  title: "Title IX: West Contra Costa Unified School District Resolution Agreement"
+  description: "West Contra Costa Resolution Agreement"
+  tags: 
+  - "West Contra Costa"
+  - "resolution agreement"
+  - "Ed"
+
+- url: http://www.ed.gov/news/press-releases/us-education-department-reaches-agreement-portland-maine-public-schools-increase
+  title: "Title IX: Compliance Review: Portland, Maine Public Schools Press Release"
+  description: "U.S. Education Department Reaches Agreement with Portland, Maine, Public Schools to Increase Athletic Opportunities for Girls"
+  tags: 
+  - "Portland"
+  - "Maine"
+  - "press release"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/01115001-a.html
+  title: "Title IX: Portland Public Schools Compliance Resolution"
+  description: "Portland, Maine Compliance Review"
+  tags: 
+  - "Portland"
+  - "Maine"
+  - "compliance review"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/01115001-b.html
+  title: "Title IX: Portland Public Schools Resolution Agreement"
+  description: "Portland, Maine Resolution Agreement"
+  tags: 
+  - "Portland"
+  - "Maine"
+  - "resolution agreement"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/10126001.html
+  title: "Title IX: Sexual Harassment: University of Montana-Missoula"
+  description: "Montana Resolution and Agreement"
+  tags: 
+  - "Monana"
+  - "press release"
+  - "resolution"
+  - "agreement"
+  - "Ed"
+
+- url: http://www.ed.gov/news/press-releases/office-civil-rights-announces-resolution-title-ix-compliance-review-involving-ev
+  title: "Title IX: Evansville-Vanderburgh School Corporation Press Release"
+  description: "Office for Civil Rights Announces Resolution of Title IX Compliance Review Involving the Evansville-Vanderburgh School Corporation in Evansville, Ind."
+  tags: 
+  - "Evansville-Vanderburgh"
+  - "press release"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/05115002-a.html
+  title: "Title IX: Evansville-Vanderburgh School Corporation Compliance Review"
+  description: "Evansville-Vanderburgh Compliance Review"
+  tags: 
+  - "Evansville-Vanderburgh"
+  - "compliance review"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/05115002-b.html
+  title: "Title IX: Evansville-Vanderburgh School Corporation Resolution Agreement"
+  description: "Evansville-Vanderburgh Resolution Agreement"
+  tags: 
+  - "Evansville-Vanderburgh resolution agreement"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/06116001-a.html
+  title: "Title IX: Louisiana State University Compliance Resolution"
+  description: "Louisiana State University Compliance Review"
+  tags: 
+  - "Louisiana State University compliance review"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/06116001-b.html
+  title: "Title IX: Louisiana State University Resolution Agreement"
+  description: "Louisiana State University Resolution Agreement"
+  tags: 
+  - "Louisiana State University"
+  - "resolution agreement"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/01105003-a.html
+  title: "Title IX: Hingham Public School District Compliance Resolution"
+  description: "Hingham Public Schools Compliance Review"
+  tags: 
+  - "Hingham Public Schools"
+  - "compliance review"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/01105003-b.html
+  title: "Title IX: Hingham Public School District Resolution Agreement"
+  description: "Hingham Public Schools Resolution Agreement"
+  tags: 
+  - "Hingham Public Schools"
+  - "resolution agreement"
+  - "Ed"
+
+- url: http://www.ed.gov/news/press-releases/office-civil-rights-announces-resolution-compliance-review-involving-merrimack-c
+  title: "Title IX: Merrimack College Press Release"
+  description: "Merrimack College Press Release"
+  tags: 
+  - "Merrimack College"
+  - "press release"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/01106001-a.html
+  title: "Title IX: Merrimack College Compliance Resolution"
+  description: "Merrimack College Compliance Resolution"
+  tags: 
+  - "Merrimack College"
+  - "compliance resolution"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/01106001-b.html
+  title: "Title IX: Merrimack College Resolution Agreement"
+  description: "Merrimack College Resolution Agreeement"
+  tags: 
+  - "Merrimack College"
+  - "resolution agreement"
+  - "Ed"
+
+- url: http://www.ed.gov/news/press-releases/us-education-department-reaches-agreement-butler-university-resolve-title-ix-ath
+  title: "Title IX: Butler University Press Release"
+  description: "U.S. Education Department Reaches Agreement with Butler University to Resolve Title IX Athletics Compliance Review"
+  tags: 
+  - "Butler University"
+  - "press release"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/05116001-a.html
+  title: "Title IX: Butler University Compliance Review"
+  description: "Butler University Compliance Review"
+  tags: 
+  - "Butler University"
+  - "compliance review"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/05116001-b.html
+  title: "Title IX: Butler University Resolution Agreement"
+  description: "Butler University Resolution Agreement"
+  tags: 
+  - "Butler University"
+  - "resolution agreement"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/05115901.html
+  title: "Title IX: Anoka-Hennepin School District"
+  description: "Anoka-Hennepin School District"
+  tags: 
+  - "Anoka-Hennepin compliance resolution"
+  - "resolution agreement"
+  - "Ed"
+
+- url: http://www.ed.gov/news/press-releases/civil-rights-office-announces-settlement-agreement-discrimination-investigation-
+  title: "Title IX: University of Notre Dame Press Release"
+  description: "Civil Rights Office Announces Settlement Agreement on Discrimination Investigation at Notre Dame"
+  tags: 
+  - "Notre Dame"
+  - "press release"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/05072011-a.html
+  title: "Title IX: University of Notre Dame Compliance Review"
+  description: "University of Notre Dame Compliance Review"
+  tags: 
+  - "Notre Dame"
+  - "compliance review"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/05072011-b.html
+  title: "Title IX: University of Notre Dame Resolution Agreement"
+  description: "University of Notre Dame Resolution Agreement"
+  tags: 
+  - "Notre Dame"
+  - "resolution agreement"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/15096002.html
+  title: "Title IX: Eastern Michigan University"
+  description: "Eastern Michigan University"
+  tags: 
+  - "Eastern Michigan"
+  - "compliance review"
+  - "resolution agreement"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/15096001.html
+  title: "Title IX: Notre Dame College"
+  description: "Notre Dame College"
+  tags: 
+  - "Notre Dame College"
+  - "compliance review"
+  - "resolution agreement"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/10095002.html
+  title: "Title IX: Idaho Falls School District"
+  description: "Idaho Falls School District"
+  tags: 
+  - "Idaho Falls"
+  - "compliance review"
+  - "resolution agreement"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/05096001.html
+  title: "Title IX: Ball State University"
+  description: "Ball State University"
+  tags: 
+  - "Ball State University"
+  - "compliance review"
+  - "resolution agreement"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/04095002-a.html
+  title: "Title IX: Hillsborough County School District Compliance Resolution"
+  description: "Hillsborough County School District Compliance Resolution"
+  tags: 
+  - "Hillsborough County"
+  - "compliance resolution"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/04095002-b.html
+  title: "Title IX: Hillsborough County School District Resolution Agreemnt"
+  description: "Hillsborough County School District Resolution Agreement"
+  tags: 
+  - "Hillsborough County"
+  - "resolution agreement"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/index.html
+  title: "Office for Civil Rights Compliance Reviews and Complaint Resolutions"
+  description: "OCR Title VI and Title IX resolutions and agreements"
+  tags: 
+  - "OCR"
+  - "resolutions"
+  - "agreements"
+  - "Ed"
+
+- url: http://www.ed.gov/news/press-releases/us-department-education-announces-resolution-yale-university-civil-rights-invest
+  title: "Title IX: Yale University Press Release"
+  description: "U.S. Department of Education Announces Resolution of Yale University Civil Rights Investigation"
+  tags: 
+  - "Yale University"
+  - "press release"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/01112027-a.html
+  title: "Title IX: Yale University Compliance Resolution"
+  description: "Yale University Compliance Resolution"
+  tags: 
+  - "Yale University"
+  - "compliance resolution"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/01112027-b.html
+  title: "Title IX: Yale Univeristy Resolution Agreement"
+  description: "Yale University Resolution Agreement"
+  tags: 
+  - "Yale University"
+  - "resolution agreement"
+  - "Ed"
+
+- url: http://www.ed.gov/news/press-releases/departments-justice-and-education-reach-agreement-tehachapi-calif-public-schools
+  title: "Title IX: Tehachapi Public Schools Press Release"
+  description: "Departments of Justice and Education Reach Agreement with Tehachapi, Calif., Public Schools to Resolve Harassment Allegations"
+  tags: 
+  - "Tehachapi Public Schools"
+  - "press release"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/09111031-a.html
+  title: "Title IX: Tehachapi Public Schools Compliance Resolution"
+  description: "Tehachapi Public Schools Compliance Resolution"
+  tags: 
+  - "Tehachapi Public Schools"
+  - "compliance resolution"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/09111031-b.html
+  title: "Title IX: Tehachapi Public Schools Resolution Agreement"
+  description: "Tehachapi Public Schools Resolution Agreement"
+  tags: 
+  - "Tehachapi Public Schools"
+  - "resolution agreement"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/investigations/02062094.html
+  title: "Title IX: City University of New York (CUNY) Resolution Letter"
+  description: "City University of New York Resolution Letter"
+  tags: 
+  - "City University of New York"
+  - "CUNY"
+  - "resolution letter"
+  - "Ed"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/letters/colleague-201104.html
+  title: "Dear Colleague Letter"
+  description: "The Department has determined that this Dear Colleague Letter is a \"significant guidance document\" under the Office of Management and Budget's Final Bulletin for Agency Good Guidance Practices, 72 Fed. Reg. 3432 (Jan. 25, 2007)"
+  tags: 
+  - "Dear Colleague"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/title-ix-rights-201104.html
+  title: "Know Your Rights"
+  description: "Know Your Rights: Title IX Prohibits Sexual Harassment and Sexual Violence  Where You Go to School"
+  tags: 
+  - "Know Your Rights"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/dcl-factsheet-201104.html
+  title: "Sexual Violence Statistics and Effects"
+  description: "Sexual violence fast facts"
+  tags: 
+  - "know your rights"
+  - "dear colleague"
+  - "fast facts"
+  - "Sexual violence"
+
+- url: http://www2.ed.gov/about/offices/list/ocr/docs/howto.html?src=rt
+  title: "How to File a Complaint with the Office for Civil Rights"
+  description: "How to File a Discrimination Complaint with the Office for Civil Rights"
+  tags: 
+  - "filing a complaint"
+  - "sexual violence"
+
+- url: http://www.bia.gov/cs/groups/xraca/documents/text/idc-022708.pdf
+  title: "Bureau of Indian Education Addressing and Responding to Sexual Violence and Abuse at BIE Post-Secondary Institutions"
+  description: "The policy provides guidance to Bureau operated post secondary institutions to assist with responding in a timely manner to sexual violence and abuse, which includes sexual assault, stalking dating and domestic violence."
+  tags: 
+  - "sexual violence"
+  - "Bureau of Indian Education"
+
+- url: http://www.haskell.edu/downloads/Clery%20Act%20Report/CampusCrimeSurvey2012.pdf
+  title: "Haskell Indian Nations University Campus Safety and Security Survey"
+  description: "The survey provides detailed information regarding criminal offenses and reporting on the Haskell campus."
+  tags: 
+  - "Haskell Campus"
+
+- url: http://www.sipi.edu/about/public-disclosures/SIPI%20campus%20security%20report%20and%20fire%20safety%20report-%202013.pdf#page=38
+  title: "Southwestern Indian Polytechnic Institute (SIPI) Campus Safety and Security Survey"
+  description: "The SIPI Crime Statistics Report provides detailed information regarding on campus criminal offenses reported ot have occured on the SIPI campus."
+  tags: 
+  - "SIPI Crime Statistics Report"
+
+- url: http://www.justice.gov/crt/complaint/#eight
+  title: "How to File a Complaint with the Special Litigation Section of the Civil Rights Division of DOJ regarding sex-based discrimination by law enforcement at educational insitutions"
+  description: "Sex based discrimination by campus-based law enforcement"
+
+- url: http://www.justice.gov/crt/complaint/#three
+  title: "How to File a Complaint with the Educational Opportunities Section of the Civil Rights Division of DOJ regarding sex-based discrimination at educational insitutions"
+  description: "Sex-based discrimination at educational insitutions"
+
+- url: http://www.justice.gov/crt/complaint/#six
+  title: "How to File a Complaint with the Housing and Civil Enforcement Section of the Civil Rights Division of DOJ regarding sex-based discrimination in residences owned or contolled by educational insitutions"
+  description: "Sex-based discrimination in residences owned or controlled by educational insitutions"
+
+- url: http://www.justice.gov/crt/about/spl/documents/missoulafind_5-9-13.pdf
+  title: "Findings Letter in the United State's invesitigation of University of Montana's Office of Public Safety"
+  description: "Details findings that University of Montana's Office of Public Safety's response to sexual assault resulted in dicrimination against women."
+
+- url: http://www.justice.gov/crt/about/spl/documents/missoulasettle_5-9-13.pdf
+  title: "Settlement Agreement between DOJ and University of Montana's Office of Public Safety"
+  description: "Settlement Agreement between DOJ and University of Montana's Office of Public Safety to implement improved policies, provide increased training, and modify practice in order to improve response and sexual assault and ensure that there is no gender bias."
+
+- url: http://www.justice.gov/crt/about/edu/documents/allentownconsent.pdf
+  title: "Settlement Agreement  in Junior Doe, et al. & United States v. Allentown School District (E.D. Pa.)"
+  description: "Sex based discrimination at educational institutions"
+
+- url: http://www.justice.gov/crt/about/edu/documents/anokaconsentdec.pdf
+  title: "Consent Decree in Doe and United States v. Anoka-Hennepin School District (D. Minn.)"
+  description: "Sex based discrimination at educational institutions"
+
+- url: http://www.justice.gov/crt/about/edu/documents/lopezconsentdecree.pdf
+  title: "Consent Decree in Lopez and United States v. Metropolitan Nashville School District (M.D. Tenn)"
+  description: "Sex based discrimination at educational institutions"
+
+- url: http://www.justice.gov/crt/about/edu/documents/putmanbr1.php
+  title: "Putman v. Board of Education of Somerset Indep. School (E.D. Ky.) -Amicus Brief"
+  description: "Sex based discrimination at educational institutions"
+
+- url: http://www.justice.gov/crt/about/edu/documents/rcsdreply.pdf
+  title: "Memorandum of Law in A.B. v. Rhinebeck Central School District & Thomas Mawhinney. (S.D. N.Y.)"
+  description: "Sex based discrimination at educational institutions"
+
+- url: http://www.justice.gov/crt/about/edu/documents/lopezmemoinsuppmsj.pdf
+  title: "Memorandum of Law in support of Motion for Summary Judgment in Lopez and United States v. Metropolitan Nashville School District (M.D. Tenn)"
+  description: "Sex based discrimination at educational institutions"
+
+- url: http://www.justice.gov/crt/about/edu/documents/lopezreplymsjredact.pdf
+  title: "Reply Brief in support of Motion for Summary Judgment in Lopez and United States v. Metropolitan Nashville School District (M.D. Tenn)"
+  description: "Sex based discrimination at educational institutions"
+
+- url: http://www.justice.gov/crt/about/edu/documents/anokacompint.pdf
+  title: "Complaint in Intervention in Doe and United States v. Anoka-Hennepin School District (D. Minn.)"
+  description: "Sex based discrimination at educational institutions"
+
+- url: http://www.justice.gov/crt/about/edu/documents/lovinscom.php
+  title: "Complaint in Intervention in Lovins and United States v. Pleasant Hill Public School District R-III (W.D. Mo.)"
+  description: "Sex based discrimination at educational institutions"
+
+- url: http://www.justice.gov/crt/about/edu/documents/tehachapiletter.pdf
+  title: "Letter of Findings in Tehachapi Unified School District (E.D. Cal.)"
+  description: "Sex based discrimination at educational institutions"
+
+- url: http://www.justice.gov/crt/about/edu/documents/montanaletter.pdf
+  title: "Letter of Findings in University of Montana-Missoula (D. Mt.)"
+  description: "Sex based discrimination at educational institutions"
+
+- url: http://www.cdc.gov/violenceprevention/nisvs/2010_ipvreport.html
+  title: "National Intimate Partner and Sexual Violence Survey (NISVS) 2010 IPV report"
+  description: "Intimate partner violence research and statistics"
+  tags: 
+  - "sexual violence"
+  - "intimate partner violence"
+
+- url: http://www.cdc.gov/violenceprevention/nisvs/2010_soreport.html
+  title: "National Intimate Partner and Sexual Violence Survey (NISVS) 2010 Victimization by Sexual Orientation"
+  description: "Intimate partner violence; sexual violence research and statistics by sexual orientation"
+  tags: 
+  - "sexual violence"
+  - "intimate partner violence"
+
+- url: http://www.cdc.gov/healthyyouth/yrbs/cdcreports.htm
+  title: "The Youth Risk Behavior Surveillance System (YRBS) reports"
+  description: "Youth violence, bullying, sexual violence"
+  tags: 
+  - "bullying/cyber-bullying"
+  - "sexual violence"
+  - "and physical and sexual teen dating violence"
+  - "youth violence"
+
+- url: http://www.collegedrinkingprevention.gov/  
+  title: "The National Institute on Alcohol Abuse and Alcoholism's (NIAAA) fact sheet"
+  description: "The National Institute on Alcohol Abuse and Alcoholism's (NIAAA's) college drinking prevention website contains fact sheets on college drinking and its consequences including sexual assaults.  It also has a guide for college and university administrators for taking action to reduce alcohol problems."
+  tags: 
+  - "sexual assault"
+  - "alcoholism"
+  - "drinking"
+
+- url: http://www.collegedrinkingprevention.gov/NIAAACollegeMaterials/planEvalHandbook.aspx
+  title: "Reducing Alcohol Problems on Campus: A Guide to Planning and Evaluation"
+  description: ""
+
+- url: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3368349/
+  title: "Preventing sexual violence instead of just responding to it: students' perceptions of sexual violence resources on campus."
+  description: ""
+
+- url: http://www.ncbi.nlm.nih.gov/pubmed/24009410
+  title: "From Survivor to Thriver: A Pilot Study of an Online Program for Rape Victims."
+  description: ""
+
+- url: http://www.ncbi.nlm.nih.gov/pubmed/22288003
+  title: "Evaluation of an information processing model following sexual assault."
+  description: ""
+
+- url: http://www.ncbi.nlm.nih.gov/pubmed/15897104
+  title: "Sexual victimization: incidence, knowledge and resource use among a population of college women."
+  description: ""
+
+- url: http://www.ncbi.nlm.nih.gov/pubmed/24370205
+  title: "Patterns of drug and alcohol use associated with lifetime sexual revictimization and current posttraumatic stress disorder among three national samples of adolescent, college, and household-residing women."
+  description: ""
+
+- url: http://www.ncbi.nlm.nih.gov/pubmed/24073356
+  title: "Prospective Predictors of Technology-Based Sexual Coercion by College Males."
+  description: ""
+
+- url: http://www.ncbi.nlm.nih.gov/pubmed/22566561
+  title: "National prevalence of posttraumatic stress disorder among sexually revictimized adolescent, college, and adult household-residing women."
+  description: ""
+
+- url: http://www.womenshealth.gov/violence-against-women 
+  title: "Office on Women's Health: Violence Against Women Information"
+  description: ""
+
+- url: http://www.womenshealth.gov/publications/our-publications/fact-sheet/sexual-assault.html 
+  title: "Office on Women's Health: Sexual Assault Fact Sheet"
+  description: ""
+
+- url: http://girlshealth.gov/safety/saferelationships/index.html
+  title: "Office on Women's Health: Healthy Relationships"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#ashford
+  title: "Clery Act Report: Ashford University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#calstate
+  title: "Clery Act Report: California State University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#clemson
+  title: "Clery Act Report: Clemson University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#cnj
+  title: "Clery Act Report: The College of New Jersey"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#dsu
+  title: "Clery Act Report: Delaware State University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#dcb
+  title: "Clery Act Report: Dominican College of Blauvelt"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#emich
+  title: "Clery Act Report: Eastern Michigan University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#floridasu
+  title: "Clery Act Report: Florida State University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#fpu
+  title: "Clery Act Report: Franklin Pierce University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#georgetown
+  title: "Clery Act Report: Georgetown University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#lasalle
+  title: "Clery Act Report: LaSalle University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#liberty
+  title: "Clery Act Report: Liberty University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#lincoln
+  title: "Clery Act Report: Lincoln University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#lsu
+  title: "Clery Act Report: Louisiana State University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#muo
+  title: "Clery Act Report: Miami University of Ohio"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#msu
+  title: "Clery Act Report: Minnesota State University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#msmary
+  title: "Clery Act Report: Mount Saint Mary College"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#niu
+  title: "Clery Act Report: Northern Illinois University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#nwvista
+  title: "Clery Act Report: Northwest Vista College"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#notredame
+  title: "Clery Act Report: Notre Dame College of Ohio"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#osu
+  title: "Clery Act Report: The Ohio State University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#oklahomastate
+  title: "Clery Act Report: Okahoma State University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#oregon
+  title: "Clery Act Report: Oregon State University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#paloalto
+  title: "Clery Act Report: Palo Alto College"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#paulsmith
+  title: "Clery Act Report: Paul Smith's College of Arts & Sciences"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#ramapo
+  title: "Clery Act Report: Ramapo College of New Jersey"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#stmaryca
+  title: "Clery Act Report: Saint Mary's College of California"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#stmarynd
+  title: "Clery Act Report: Saint Mary's College- Notre Dame"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#stphilips
+  title: "Clery Act Report: Saint Philip's College"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#salem
+  title: "Clery Act Report: Salem International University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#sanantonio
+  title: "Clery Act Report: San Antonio College"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#schreiner
+  title: "Clery Act Report: Schreiner University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#slipperyrock
+  title: "Clery Act Report: Slippery Rock University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#sdsu
+  title: "Clery Act Report: South Dakota State University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#tarleton
+  title: "Clery Act Report: Tarleton State University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#arkansas
+  title: "Clery Act Report: University of Arkansas"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#ucdavis
+  title: "Clery Act Report: University of California- Davis"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#ucla
+  title: "Clery Act Report: University of California- Los Angeles"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#ucsd
+  title: "Clery Act Report: University of California- San Diego"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#uofd
+  title: "Clery Act Report: University of Delaware"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#michigan
+  title: "Clery Act Report: University of Michigan"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#und
+  title: "Clery Act Report: University of North Dakota"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#uni
+  title: "Clery Act Report: University of Northern Iowa"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#upenn
+  title: "Clery Act Report: University of Pennsylvania"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#uta
+  title: "Clery Act Report: University of Texas at Arlington"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#utah
+  title: "Clery Act Report: University of Utah"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#uvm
+  title: "Clery Act Report: University of Vermont"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#uva
+  title: "Clery Act Report: University of Virginia"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#wisgb
+  title: "Clery Act Report: University of Wisconsin-Green Bay"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#vatech
+  title: "Clery Act Report: Virginia Polytechnic Institute and State University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#wfu
+  title: "Clery Act Report: Wake Forest University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#washington
+  title: "Clery Act Report: Washington State University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#wesley
+  title: "Clery Act Report: Wesley College"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#wvu
+  title: "Clery Act Report: West Virginia University"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#wvwc
+  title: "Clery Act Report: West Virginia Wesleyan College"
+  description: ""
+
+- url: http://studentaid.ed.gov/about/data-center/school/clery-act#yale
+  title: "Clery Act Report: Yale University"
+  description: ""
+
+- url: http://homeless.samhsa.gov/Search.aspx?search=sexual+abuse
+  title: "The Substance Abuse and Mental Health Services Administration's Homelessness Resource Center"
+  description: "HRC is an interactive learning community dedicated to disseminating knowledge and best practices to prevent and end homelessness."
+
+- url: https://prep.rti.org/ARAtoolkit/index.html        
+  title: "The Adolescent Relationship Toolkit"
+  description: "The Adolescent Relationship Toolkit provides FYSB's Adolescent Pregnancy Prevention (APP) grantees with guidance on how to incorporate adolescent relationship abuse (ARA) prevention into their existing APP programming. This toolkit provides practical tools for grantees to choose from and adapt to best fit their projects and participants .  There are also links to available resources."
+

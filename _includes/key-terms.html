@@ -1,0 +1,8 @@
+{::nomarkdown}
+<dl class="key-terms">
+  {% for term in site.data.key-terms %}
+  <dt id="{{ term.term | slugify }}">{{ term.term }}</dt>
+  <dd>{{ term.definition }}</dd>
+  {% endfor %}
+</dl>
+{:/}

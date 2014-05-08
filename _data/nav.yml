@@ -1,0 +1,53 @@
+- title: Students
+  url: /students
+  topbar: True
+  subnav:
+    - title: Know Your Rights
+      url: /students#know-your-rights
+    
+    - title: How to File a Complaint
+      url: /students#how-do-i-file-a-complaint-about-my-school-and-then-what-happens
+ 
+    - title: Confidentiality
+      url: /students#will-what-i-share-remain-confidential
+      
+    - title: Key Terms
+      url: /students#key-terms-and-definitions
+    
+
+
+- title: Schools
+  url: /schools
+  topbar: True
+  subnav:
+    - title: Legal Guidance
+      url: /schools#legal-guidance
+    
+    - title: Developing Policies
+      url: /schools#developing-sexual-assault-policies-and-procedures
+    
+    - title: Maintaining Confidentiality
+      url: /schools#maintaining-confidentiality
+    
+    - title: Prevention Resources
+      url: /schools#prevention-resources
+
+- title: Resources
+  url: /resources
+  topbar: True
+  subnav:
+    - title: Find a Service
+      url: /resources#"find-a-service-near-you
+      
+    - title: Organizations 
+      url: /resources#organizations-and-services
+
+- title: Data
+  url: /data
+  topbar: True
+  subnav:
+    - title: School Enforcement Map
+      url: /data#school-by-school-enforcement-map
+      
+    - title: Data.gov
+      url: /data#"datagov

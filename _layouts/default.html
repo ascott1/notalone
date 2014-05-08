@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    
+    <link href="{{ site.baseurl }}/static/css/style.css?c={{ site.cachebuster }}" rel="stylesheet">
+    <!--[if lte IE 7]>
+      <style>body { display: none !important; }</style>
+      <script type="text/javascript">
+        window.location.href = '/static/oldie.html';
+      </script>
+    <![endif]-->
+
+    <!--[if lte IE 8]>
+    <script type="text/javascript" src="{{ site.baseurl }}/static/bower_components/respond/respond.min.js"></script>
+      <link href="{{ site.baseurl }}/static/css/ie8.css" rel="stylesheet">
+    <![endif]-->
+    <!--[if IE]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    
+    <script src="{{ site.baseurl }}/static/js/min/jquery.min.js"></script>
+  <!--  <script src="{{ site.baseurl }}/static/js/min/iecors.min.js"></script> -->
+  <!--[if lte IE 9]>
+  <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.0/jquery.xdomainrequest.min.js'></script>
+  <![endif]-->
+    
+  </head>
+  <body>
+    <div class="usa">An official website of the United States Government <img class="flag" src="{{ site.baseurl }}/static/img/us_flag_small.png" class="USA Flag" /></div>
+    <header role="banner" class="site-header">
+      <a class="btn btn-escape" href="http://google.com" id="escape">Escape</a>
+      <div class="container">
+        <div class="site-header-content">
+          <hgroup>
+            <h1 class="site-title"><a href="{{ site.baseurl }}/">Not Alone</a></h1>
+          </hgroup>
+          <nav role="navigation" class="main-nav">
+            <ul class="nav-list">
+              <li class="nav-toggle-menu-only"><a href="{{ site.baseurl }}/">Home</a></li>
+              {% for node in site.data.nav %}
+              {% if node.topbar %}
+              <li class="nav-menu-all{% if page.title == node.title %} active{% endif %}"><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>        </li>
+              {% endif %}
+              {% endfor %}
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+  <div class="container">
+    <div class="main{% if page.class %} {{ page.class }}{% endif %}">
+      <div class="main-content">
+        <h1 class="page-title">{{ page.title }}</h1>
+        {% if page.subtitle %}
+        <p class="page-subtitle">{{ page.subtitle }}</p>
+        {% endif %}
+        {{ content }}
+      </div>
+    </div>
+    <footer role="contentinfo" class="site-footer">
+      <div class="site-footer-region">
+        <div class="site-footer-area aside">
+          <div class="site-footer-area-title">Hotlines</div>
+          {% for resource in site.data.resources %}
+          {% for type in resource.type %}
+          {% if type == "hotline" %}
+          {% for role in resource.role %}
+          {% if role == "footer" %}
+          <div itemscope class="hotline" itemtype="http://schema.org/Organization">
+            <div class="hotline-name" itemprop="name"><a href="{{ resource.url }}">{{ resource.name }}</a></div>
+            {% if resource.tel %}
+              <div class="hotline-tel" itemprop="telephone">{{ resource.tel }}</div>
+            {% endif %}
+            {% if resource.sms %}
+              <div class="hotline-tel" itemprop="telephone">{{ resource.sms }}</div>
+            {% endif %}
+            {% if resource.chat %}
+              <div class="hotline-url" itemprop="url"><a class="btn btn-xs" href="{{ resource.chat }}">Live Chat</a></div>
+            {% endif %}
+          </div>
+          {% endif %}
+          {% endfor %}
+          {% endif %}
+          {% endfor %}
+          {% endfor %}
+        </div>
+        <div class="site-footer-area primary">
+          <div class="site-footer-area-content">
+          {% for node in site.data.nav %}
+          {% if node.subnav %}
+          <div class="subnav-area">
+            <div class="site-footer-area-title"><a href="{{ site.baseurl }}/{{ node.url }}">{{ node.title }}</a></div>
+            <ul class="site-footer-nav nav-list">
+              {% for subnav in node.subnav %}
+                <li><a href="{{ site.baseurl }}{{ subnav.url }}">{{ subnav.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+            {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      <div class="site-footer-region">
+        <div class="site-footer-area aside">
+          <a class="btn btn-lg cta" href="{{ site.baseurl }}/contact">Contact</a>
+        </div>
+        <div class="site-footer-area primary">
+          <form role="form" id="footer-search-form" class="js-required" action="{{ site.baseurl }}/search" method="GET">
+            <label class="sr-only" for="q">Search</label>
+            <div class="input-icon-group">
+              <span class="glyphicon glyphicon-search"></span>
+              <input type="search" class="form-control" id="q" name="q" placeholder="Search">
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="site-footer-region fold">
+        <div class="site-footer-area aside">
+          <div class="credit">
+            <a class="credit-title img oneistwomany" style="background-image:url('{{ site.baseurl }}/static/img/1is2many.png');" href="http://whitehouse.gov/1is2many">1is2 Many</a>
+             In Partnership with <a href="http://whitehouse.gov/1is2many">www.whitehouse.gov/1is2many</a>
+          </div>
+          
+          <div class="credit">
+            <a class="credit-title img eighteenf" style="background-image:url('{{ site.baseurl }}/static/img/18f.png');" href="https://18f.gsa.gov">18F</a>
+            Made by <a href="https://18f.gsa.gov">18F</a> and <a href="http://whitehouse.gov/innovationfellows">Presidential Innovation Fellows</a>
+          </div>
+        </div>
+        <div class="site-footer-area primary disclaimer">
+          NotAlone.gov includes links to non-governmental organizations, websites and other resources.  These resources are provided for informational purposes only.  The White House Task Force to Protect Students from Sexual Assault and associated federal agencies do not endorse these entities, their products or services, and the information contained at these sites does not necessarily reflect the official views of the U.S. government.
+        </div>
+      </div>
+      </footer>
+  </div>
+  <script>
+    (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+    function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+    e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+    e.src='//www.google-analytics.com/analytics.js';
+    r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+    ga('create','UA-48605964-4');ga('send','pageview');
+  </script>
+  <script src="{{ site.baseurl }}/static/js/min/init.min.js?c={{ site.cachebuster }}"></script>
+  {% for include in site.data.js-includes %}
+  {% for node in include.pages %}
+  {% if node == page.title %}
+  <script src="{{ site.baseurl }}{{ include.src }}?c={{ site.cachebuster }}"></script>
+  {% endif %}
+  {% endfor %}
+  {% endfor %}
+  <script src="{{ site.baseurl }}/static/js/min/federated.analytics.min.js"></script>
+  </body>
+</html>

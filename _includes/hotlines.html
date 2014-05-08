@@ -1,0 +1,20 @@
+{::nomarkdown}
+{% for resource in site.data.resources %}
+{% for type in resource.type %}
+{% if type == "hotline" %}
+{% for role in resource.role %}
+{% if role == include.role %}
+
+<div itemscope class="hotline" itemtype="http://schema.org/Organization">
+  <div class="hotline-name" itemprop="name"><h3>{{ resource.name }}</h3></div>
+  <div class="hotline-url" itemprop="url"><a href="{{ hotline.url }}">{{ resource.url }}</a>{% if resource.chat %} <a href="{{ hotline.chat }}" class="btn btn-xs" target="_blank">Live Chat</a>{% endif %}</div>
+  <div class="hotline-tel" itemprop="telephone">{{ resource.tel }}</div>
+  {% if resource.tty %}<div class="hotline-tty" itemprop="telephone">TTY {{ hotline.tty }}</div>{% endif %}
+  <div class="hotline-description">{{ resource.description }}</div>
+</div>
+{% endif %}
+{% endfor %}
+{% endif %}
+{% endfor %}
+{% endfor %}
+{:/}
